@@ -1,0 +1,14 @@
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\bin\Debug\net8.0\Bash-A-Monster.exe
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\bin\Debug\net8.0\Bash-A-Monster.deps.json
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\bin\Debug\net8.0\Bash-A-Monster.runtimeconfig.json
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\bin\Debug\net8.0\Bash-A-Monster.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\bin\Debug\net8.0\Bash-A-Monster.pdb
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\Bash-A-Monster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\Bash-A-Monster.AssemblyInfoInputs.cache
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\Bash-A-Monster.AssemblyInfo.cs
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\Bash-A-Monster.csproj.CoreCompileInputs.cache
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\Bash-A-Monster.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\refint\Bash-A-Monster.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\Bash-A-Monster.pdb
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\Bash-A-Monster.genruntimeconfig.cache
+c:\Users\leo.sundberg1\Documents\Programming 2\Bash-A-Monster\Bash-A-Monster\obj\Debug\net8.0\ref\Bash-A-Monster.dll
